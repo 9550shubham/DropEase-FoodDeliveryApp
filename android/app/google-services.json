@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "479429424696",
+    "project_id": "auth-ef349",
+    "storage_bucket": "auth-ef349.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479429424696:android:eeb7018037fc3a84d658cd",
+        "android_client_info": {
+          "package_name": "com.example.dropease"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479429424696-9o27ajcer6270q9l0mv5tftkbt89ujrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCzZzO0ojgeLBDOaupEzCyfqUKQS08H74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479429424696-9o27ajcer6270q9l0mv5tftkbt89ujrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
